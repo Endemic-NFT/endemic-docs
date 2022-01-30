@@ -63,8 +63,20 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Docs',
-                to: '/docs',
+                label: 'Intro',
+                to: '/intro',
+              },
+              {
+                label: 'Contracts',
+                to: '/contracts',
+              },
+              {
+                label: 'Subgraph',
+                to: '/subgraph',
+              },
+              {
+                label: 'Bugs',
+                to: '/bugs',
               },
             ],
           },
