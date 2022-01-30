@@ -77,8 +77,12 @@ const config = {
                 to: '/subgraph',
               },
               {
-                label: 'Bugs',
+                label: 'Bug reports',
                 to: '/bugs',
+              },
+              {
+                label: 'FAQ',
+                to: '/faq',
               },
             ],
           },
