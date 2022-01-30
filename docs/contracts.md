@@ -1,11 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Contracts
 These contracts are building blocks of Endemic. All of our contracts are open-source and available on our [Github](https://github.com/Endemic-NFT/endemic-contracts).
 
-If you find bug please contact `marko@endemic.app` or DM on [Twitter](https://twitter.com/0xMarko).
+If you find a bug please contact `marko@endemic.app` or DM on [Twitter](https://twitter.com/0xMarko).
 
 ## ERC721 contract factory
 This contract is used to create new collections for artists. New contracts are owned by the artists. 
