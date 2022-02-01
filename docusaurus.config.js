@@ -24,7 +24,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/Endemic-NFT/endemic-docs/tree/main/packages/create-docusaurus/templates/shared/',
+          enableUpdateTime: true
         },
         blog: false,
         theme: {
@@ -37,6 +37,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/og.png',
+      metadata: [{name: 'og:title', content: 'Endemic docs'}, {name: 'og:description', content: 'Collect smart art'}],
       navbar: {
         title: 'Endemic',
         logo: {
@@ -67,14 +69,6 @@ const config = {
               {
                 label: 'Intro',
                 to: '/',
-              },
-              {
-                label: 'Contracts',
-                to: '/contracts',
-              },
-              {
-                label: 'Subgraph',
-                to: '/subgraph',
               },
               {
                 label: 'Bug reports',
@@ -120,9 +114,14 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Endemic, Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        lightTheme: lightCodeTheme
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      }
     }),
 };
 

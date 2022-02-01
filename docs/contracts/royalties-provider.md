@@ -1,0 +1,75 @@
+---
+sidebar_position: 5
+---
+
+# Royalties Provider
+A royalty fee provider for the Endemic marketplace. Contract keeps royalties for collections and specific tokens. Collection owners can set royalies up to 50%.
+
+
+## Methods
+
+### getRoyalties
+
+```
+function getRoyalties(address nftContract, uint256 tokenId) external view returns (address, fee)
+```
+Method returns recipient of the rolayties fee and fee %
+
+**Parameters**
+
+| Name        | Type          |Description  |
+| ----------- | ----------- | ----------- |
+| nftContract | address | address of the collection              |
+| tokenId   | uint256        |    token id for which we want to check rolayties   |
+
+**Returns**
+
+| Name        | Type          |Description  |
+| ----------- | ----------- | ----------- |
+| account | address | address of the fee recipient account           |
+| fee   | uint256        |    fee %, divide it by 100 to get actual (ex 1000 = 10%)   |
+
+### setRoyaltiesForCollection
+
+```
+function setRoyaltiesForCollection(address nftContract, address feeRecipient, uint256 fee) external
+```
+Method sets royalties for specific collection. Called by collection owner or royalties provider admin
+
+**Parameters**
+
+| Name        | Type          |Description  |
+| ----------- | ----------- | ----------- |
+| nftContract | address | address of the collection              |
+| feeRecipient | address | address of the fee recipient account           |
+| fee   | uint256        |    fee %, divide it by 100 to get actual (ex 1000 = 10%), **max is 5000**   |
+
+**Returns**
+
+| Name        | Type          |Description  |
+| ----------- | ----------- | ----------- |
+| account | address | address of the fee recipient account           |
+| fee   | uint256        |    fee %, divide it by 100 to get actual (ex 1000 = 10%)   |
+
+### setRoyaltiesForToken
+
+```
+function setRoyaltiesForToken(address nftContract, uint256 tokenId, address feeRecipient, uint256 fee) external
+```
+Method sets royalties for specific token. Called by collection owner or royalties provider admin
+
+**Parameters**
+
+| Name        | Type          |Description  |
+| ----------- | ----------- | ----------- |
+| nftContract | address | address of the collection              |
+| tokenId   | uint256        |    token id for which we want to set rolayties   |
+| feeRecipient | address | address of the fee recipient account           |
+| fee   | uint256        |    fee %, divide it by 100 to get actual (ex 1000 = 10%), **max is 5000**   |
+
+**Returns**
+
+| Name        | Type          |Description  |
+| ----------- | ----------- | ----------- |
+| account | address | address of the fee recipient account           |
+| fee   | uint256        |    fee %, divide it by 100 to get actual (ex 1000 = 10%)   |
