@@ -13,14 +13,14 @@ A royalty fee provider for the Endemic marketplace. Contract keeps royalties for
 ```
 function getRoyalties(address nftContract, uint256 tokenId) external view returns (address, fee)
 ```
-Method returns recipient of the rolayties fee and fee %
+Method returns recipient of the royalties fee and fee %
 
 **Parameters**
 
 | Name        | Type          |Description  |
 | ----------- | ----------- | ----------- |
 | nftContract | address | address of the collection              |
-| tokenId   | uint256        |    token id for which we want to check rolayties   |
+| tokenId   | uint256        |    token id for which we want to check royalties   |
 
 **Returns**
 
@@ -63,7 +63,7 @@ Method sets royalties for specific token. Called by collection owner or royaltie
 | Name        | Type          |Description  |
 | ----------- | ----------- | ----------- |
 | nftContract | address | address of the collection              |
-| tokenId   | uint256        |    token id for which we want to set rolayties   |
+| tokenId   | uint256        |    token id for which we want to set royalties   |
 | feeRecipient | address | address of the fee recipient account           |
 | fee   | uint256        |    fee %, divide it by 100 to get actual (ex 1000 = 10%), **max is 5000**   |
 

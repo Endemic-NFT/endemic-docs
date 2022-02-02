@@ -24,7 +24,6 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          enableUpdateTime: true
         },
         blog: false,
         theme: {
