@@ -10,7 +10,7 @@ Aurora mainnet: [0x2f6A8241d4F34EA22B9c122bE9DDdFDaaf3121E7](https://explorer.ma
 Aurora testnet: [0x74f43bE6944154CF4da1731E3ad472dFe34E372B](https://explorer.testnet.aurora.dev/address/0x74f43bE6944154CF4da1731E3ad472dFe34E372B/transactions)
 
 ## ERC-721 Contract Factory
-Aurora mainnet: [0x7e4fD7d4bb0e31A14B76a396F840b6FE08A51da3](https://explorer.mainnet.aurora.dev/address/0x7e4fD7d4bb0e31A14B76a396F840b6FE08A51da3/transactions)
+Aurora mainnet: [0x6621bDA8656cA6dbE5Fe51D736587eb91C42AE82](https://explorer.mainnet.aurora.dev/address/0x6621bDA8656cA6dbE5Fe51D736587eb91C42AE82/transactions)
 
 Aurora testnet: [0xFe7F3f28b5963b5447ECb37F1d9710f453BDFB21](https://explorer.testnet.aurora.dev/address/0xFe7F3f28b5963b5447ECb37F1d9710f453BDFB21/transactions)
 
