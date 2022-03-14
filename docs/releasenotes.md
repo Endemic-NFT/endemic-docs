@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+label: Release notes
+sidebar_position: 7
 ---
 
-# Release notes 1.1
+# Release notes 1.1 - Cynic
 
 ## NFT offers
 Added ability to make an offer in ETH for an NFT. You decide how much you're willing to offer and NFT owner decides if he wants to sell. Owner can see received offers in 2 ways. 
