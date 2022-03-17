@@ -12,19 +12,19 @@ Added option to tip another user for some amount of ether. You can do this from 
 
 ## Rankings
 Rankings is the new page where you can see some interesting metrics like: 
-	- top collections
-	- top sellers
-	- top buyers
-	- most liked NFTs
+- top collections
+- top sellers
+- top buyers
+- most liked NFTs
   
 Activities and Rankings pages are grouped together in a new navigation item called Stats. 
 
 ## Badges
 Badges are introduced as a recognition for our users and artists. There are 4 of them: 
-	- USER - you earn this badge by setting up your username
-	- COLLECTOR - you earn this badge by buying one or more NFTs in our marketplace
-	- VERIFIED ARTIST - these are artists verified by Endemic team
-	- SUPERSTAR - this is badge for truly premium artists
+- USER - you earn this badge by setting up your username
+- COLLECTOR - you earn this badge by buying one or more NFTs in our marketplace
+- VERIFIED ARTIST - these are artists verified by Endemic team
+- SUPERSTAR - this is badge for truly premium artists
 
 ## Other changes
 - Option to resend email address verification every minute
