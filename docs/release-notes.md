@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Release notes 
 
-## 1.2. - Choke
+## 1.2 - Choke
 
 ### Tips
 
