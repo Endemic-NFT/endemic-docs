@@ -4,6 +4,20 @@ sidebar_position: 7
 
 # Release notes 
 
+## 1.3 - Smelt
+
+## Navigation redesign
+We did some styling and functional changes to our navigation bar. We improved the search bar, so now you can see search results more clearly.
+
+## Notifications
+Now you can receive notifications in-app too, not only via email. There is a new notification button in the navigation bar where you can see the latest events that happened with your account.
+
+## Other changes
+- Added option to filter user NFTs by collection.
+- Added activity tab on collection page
+- Increased file upload size limit from 32MB to 50MB
+- Various bug fixes and performance improvements
+
 ## 1.2 - Choke
 
 ### Tips
