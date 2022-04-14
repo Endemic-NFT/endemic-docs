@@ -4,6 +4,16 @@ sidebar_position: 7
 
 # Release notes 
 
+## 1.4 - Found
+
+## Filters redesign
+We did some styling and functional changes to our NFT filters. Now it's easier to filter NFTs on explore and artist pages.
+
+## Other changes
+- Implemented various END token vesting components
+- Refactored parts of the system to support multiple blockchains such as Ethereum and NEAR
+- Various bug fixes
+
 ## 1.3 - Smelt
 
 ## Navigation redesign
