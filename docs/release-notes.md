@@ -4,6 +4,11 @@ sidebar_position: 7
 
 # Release notes 
 
+## 1.5 - Squad
+- Added activiy tab on user profiles
+- Added ability to like NFT comments
+- Added redundancy to IPFS pins
+  
 ## 1.4 - Found
 
 ## Filters redesign
