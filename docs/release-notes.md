@@ -4,6 +4,15 @@ sidebar_position: 7
 
 # Release notes 
 
+## 1.6 - Heist
+- Increased the size of NFT image 
+- Added more NFTs from artist when viewing NFT page
+- Improved NFT full-screen mode
+- Completed infrastructure for multi-chain support
+- Added Latest Artwork to home page
+- Various bug fixes
+- UI improvements and fixes
+  
 ## 1.5 - Squad
 - Added activiy tab on user profiles
 - Added ability to like NFT comments
