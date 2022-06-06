@@ -3,6 +3,11 @@ sidebar_position: 7
 ---
 
 # Release notes 
+## 1.7 - Slung
+- Redesigned home page
+- Added top buyers, sellers and collections sections
+- Added better rankings
+- Redesigned activity page
 
 ## 1.6 - Heist
 - Increased the size of NFT image 
