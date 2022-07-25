@@ -3,6 +3,11 @@ sidebar_position: 7
 ---
 
 # Release notes 
+## 1.8 - Gloom
+- Added dutch auction support
+- Introduced user updates, now you can tell your followers what's going on
+- Redesigned home and collection pages
+
 ## 1.7 - Slung
 - Redesigned home page
 - Added top buyers, sellers and collections sections
