@@ -3,6 +3,32 @@ sidebar_position: 7
 ---
 
 # Release notes 
+## 2.0 - Reborn
+In Endemic 2.0 Ether is not the only currency for trading with NFTs. Now you can use Aurora and Wrapped NEAR as well. Also, Endemic fees are different for trading in different tokens.
+
+### Private sale
+
+If you decide to sell your NFT to someone you know but without putting your NFT publicly on sale, you can do that now. 
+
+### Collection offer
+
+If you want NFT from some collection but can't decide which one you like you can create a Collection Offer. The first NFT owner that accepts the offer gets the money and you get his NFT.
+
+### Sidebar
+
+We improved our profile menu. Now it's a sidebar and other than links to some user-specific pages you can see the state of your wallet balances for tokens that you can use on Endemic.
+
+### Other changes
+- By adding sorting option on the Artists page now it is easier to find artists you like
+- We updated the form for adding a new collection. Now you can set royalties for collection NFTs as you create a collection.
+- We improved filtering NFTs on the Artwork page. Now it is easier to find NFT you like in some price range.
+- We optimized NFT minting so now you will pay fewer gas fees when minting NFT
+- We also optimized filters on the Activity page. If you are interested in what happens in the marketplace it is more intuitive now than before.
+- We improved UI for the NFT activity history
+- Some code refactorings
+- Various performance optimizations
+- Various bug fixes
+
 ## 1.8 - Gloom
 - Added dutch auction support
 - Introduced user updates, now you can tell your followers what's going on

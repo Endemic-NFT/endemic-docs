@@ -3,8 +3,8 @@
 Exchange subgraph indexes activity on Endemic such as collections, NFTs, auctions, bids and reports. 
 
 ## Indexed contracts
-- Endemic Marketplace
-- ERC-721 Contract Factory
+- Endemic Exchange
+- Endemic Collection Factory
 - Royalties Provider
 
 ## How to query?​

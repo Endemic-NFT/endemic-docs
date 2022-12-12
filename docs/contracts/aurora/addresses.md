@@ -4,20 +4,17 @@ sidebar_position: 1
 
 # Deployed contract addresses
 
-## Endemic Marketplace
-Aurora: [0x2f6A8241d4F34EA22B9c122bE9DDdFDaaf3121E7](https://aurorascan.dev/address/0x2f6A8241d4F34EA22B9c122bE9DDdFDaaf3121E7/transactions)
+## Endemic Exchange
+[0x0c45c5971f751D93F2e4Ae0E7CeB149967b846d2](https://aurorascan.dev/address/0x0c45c5971f751D93F2e4Ae0E7CeB149967b846d2/transactions)
 
-## ERC-721 Contract Factory
-Aurora: [0x6621bDA8656cA6dbE5Fe51D736587eb91C42AE82](https://aurorascan.dev/address/0x6621bDA8656cA6dbE5Fe51D736587eb91C42AE82/transactions)
+## Endemic Collection Factory
+[0x76FA7f90D3900eB95Cfc58AB12c916984AeC50c8](https://aurorascan.dev/address/0x76FA7f90D3900eB95Cfc58AB12c916984AeC50c8/transactions)
 
-## Fee Provider
-Aurora: [0x3853676279Ada77826afDEdE6a815D5250A1867A](https://aurorascan.dev/address/0x3853676279Ada77826afDEdE6a815D5250A1867A/transactions)
+## Payment Manager
+[0x4282CAB4548FBB27f1eaBD1b16F5B8c3D128B268](https://aurorascan.dev/address/0x4282CAB4548FBB27f1eaBD1b16F5B8c3D128B268/transactions)
 
 ## Royalties Provider
-Aurora: [0xE6a3541995E78600A949049C41A1C310634C57cc](https://aurorascan.dev/address/0xE6a3541995E78600A949049C41A1C310634C57cc/transactions)
-
-## Offers
-Aurora: [0x0eFd38A98FaaDDBc078FEcA76D1D20857b1Be5F5](https://aurorascan.dev/address/0x0eFd38A98FaaDDBc078FEcA76D1D20857b1Be5F5/transactions)
+[0xE6a3541995E78600A949049C41A1C310634C57cc](https://aurorascan.dev/address/0xE6a3541995E78600A949049C41A1C310634C57cc/transactions)
 
 ## END token
 Aurora: [0x7916afb40e8d776e9002477d4bad56767711b8e7](https://aurorascan.dev/address/0x7916afb40e8d776e9002477d4bad56767711b8e7)
