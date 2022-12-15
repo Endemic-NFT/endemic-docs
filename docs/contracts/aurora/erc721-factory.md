@@ -2,13 +2,11 @@
 sidebar_position: 3
 ---
 
-# ERC-721 Contract Factory
+# Endemic Collection Factory
 
 This contract is used to create new collections for artists. New contracts are owned by the artists.
 
 Endemic team can also create collections for artists and mint their art for them. Artist still owns everything, but trusts Endemic with helping them onboard in the NFT space. Artwork can't be minted by our team in collections that are created by the artist though our `Create` page.
-
-New contracts are deployed using the [beacon proxy pattern](https://docs.openzeppelin.com/contracts/3.x/api/proxy#beacon).
 
 ## Methods
 
