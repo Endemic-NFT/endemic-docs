@@ -23,6 +23,7 @@ We introduced a new metric for collections. It is a floor price metric and it sh
 - Various bug fixes
 - 
 ## 2.0 - Reborn
+
 In Endemic 2.0 Ether is not the only currency for trading with NFTs. Now you can use Aurora and Wrapped NEAR as well. Also, Endemic fees are different for trading in different tokens.
 
 ### Private sale
