@@ -3,6 +3,25 @@ sidebar_position: 7
 ---
 
 # Release notes 
+
+## 2.1 - Ratio
+
+### Floor Price
+We introduced a new metric for collections. It is a floor price metric and it shows the price of the cheapest NFT in the collection. You can see that metric if you go to the Top Collection rankings, or with other collection stats on the collection page.
+
+### Notifications
+- Tip notification - now you can see the amount of tip inside the notification
+- Collection offer notification - when the user creates a collection offer, all collection NFT owners will receive a notification about that offer. The first one to accept the offer gets the sale.
+- Private auction notification - when the user creates a private auction, the target buyer gets a notification about it
+- Comment likes notification - you get notified when someone likes your NFT or Post comment
+- We also fixed some email notification amount problems
+
+
+### Other changes
+- Some code refactorings
+- Various performance optimizations
+- Various bug fixes
+- 
 ## 2.0 - Reborn
 In Endemic 2.0 Ether is not the only currency for trading with NFTs. Now you can use Aurora and Wrapped NEAR as well. Also, Endemic fees are different for trading in different tokens.
 
